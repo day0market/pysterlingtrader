@@ -17,7 +17,7 @@ EVEN IF I HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 Unfortunately connector doesn't support ActiveX events. So if you plan to use it for trading
 you should have endless loop and check positions and orders every second, minute...
 
-pysterling requires SterlingWrapper.dll. It's wrapper around Sterling AcitveX API and you can build it from [sourse] (https://github.com/day0market/SterlingWrapper) 
+pysterling requires SterlingWrapper.dll. It's wrapper around Sterling AcitveX API and you can build it from [sourse](https://github.com/day0market/SterlingWrapper) 
 or use SterlingWrapper.dll from this repo.
 
 You can find example usage in example.py file. Please note if you run example.py it will place limit order that can be 
